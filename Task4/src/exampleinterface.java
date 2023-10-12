@@ -1,0 +1,2 @@
+public interface exampleinterface {
+}
